@@ -1,3 +1,7 @@
-const hello: string = 'word'
+import * as phrase from './phrase.js'
+import * as util from './util.js'
 
-console.log(hello)
+export {
+  phrase,
+  util
+}

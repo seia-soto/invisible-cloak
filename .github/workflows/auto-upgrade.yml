@@ -1,7 +1,6 @@
 name: Auto Upgrade
 
 on:
-  push:
   schedule:
     - cron: '0 0 * * 0'
 

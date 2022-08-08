@@ -1,0 +1,8 @@
+/.github
+/.vscode
+/.yarn
+/src
+/.swcrc
+/.nvmrc
+/.yarnrc.yml
+/tsconfig.json

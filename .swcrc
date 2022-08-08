@@ -15,7 +15,7 @@
     },
     "target": "es2020",
     "keepClassNames": true,
-    "loose": true
+    "loose": false
   },
   "module": {
     "type": "es6"
